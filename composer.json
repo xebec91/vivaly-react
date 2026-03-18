@@ -1,0 +1,11 @@
+{
+    "name": "stagiaire/vivaly_xampp",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "stripe/stripe-php": "^19.4"
+    }
+}
